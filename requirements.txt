@@ -1,0 +1,9 @@
+# Pinned to the versions ProjLabs' own checks run with, so a result on your computer matches a result there.
+joblib==1.6.0
+jupyterlab==4.6.4
+matplotlib==3.11.2
+pandas==3.0.6
+psycopg[binary]==3.3.6
+pytest==9.1.1
+ruff==0.16.10
+scikit-learn==1.9.1

@@ -1,0 +1,11 @@
+# Step "Frame the problem": fill in each value after the = sign.
+# The day the prediction is made: we know everything before it, nothing on or after it (YYYY-MM-DD).
+cutoff=
+# The first day after the month we predict (YYYY-MM-DD).
+label_window_end=
+# How many customers were active at the cutoff.
+population=
+# How many of them cancelled in the month after it.
+churners=
+# churners / population as a percentage, 1 decimal (for example 12.3).
+churn_rate=

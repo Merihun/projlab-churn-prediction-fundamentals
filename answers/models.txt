@@ -1,0 +1,4 @@
+# Step "Compare models": the mean ROC AUC of each model from compare_models, 3 decimals, and your choice.
+logistic_regression_cv_auc=
+random_forest_cv_auc=
+chosen=

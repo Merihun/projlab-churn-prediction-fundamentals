@@ -1,0 +1,6 @@
+# Step "A baseline and a first model": copy each value from first_results(table), 3 decimals.
+baseline_accuracy=
+baseline_recall=
+logreg_accuracy=
+logreg_recall=
+logreg_roc_auc=
